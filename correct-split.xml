@@ -6,18 +6,18 @@
     <?oxy_insert_start author="Left" timestamp="20201109T232713+0200"?>
     <itemizedlist>
       <listitem>
-        <para>A<?oxy_insert_end?>AA<?oxy_insert_start author="Left" timestamp="20201109T232713+0200"?></para>
+        <para>A<?oxy_insert_end?>AASDA<?oxy_insert_start author="Left" timestamp="20201109T232713+0200"?></para>
         <itemizedlist>
           <listitem>
             <?oxy_attributes dir="&lt;change type=&quot;inserted&quot; author=&quot;Anonymous&quot; timestamp=&quot;20201112T001818+0200&quot; /&gt;"?>
             <para dir="asdas">B</para>
           </listitem>
-          </itemizedlist>
-        </listitem>
+        </itemizedlist>
+      </listitem>
       <listitem>
         <para>C</para>
       </listitem>
     </itemizedlist>
-    </para>
+  </para>
   <?oxy_insert_end?>
 </article>

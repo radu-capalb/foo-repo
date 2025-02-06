@@ -6,14 +6,14 @@
     <?oxy_insert_start author="Left" timestamp="20201109T232713+0200"?>
     <itemizedlist>
       <listitem>
-        <para>A asdasd<?oxy_insert_end?>dar tu ce stii<?oxy_insert_start author="Left" timestamp="20201109T232713+0200"?></para>
+        <para>A asdasd</para>
         <?oxy_insert_end?>
       </listitem>
       <?oxy_insert_start author="Left" timestamp="20201109T232713+0200"?>
       <listitem>
         <?oxy_attributes dir="&lt;change type=&quot;inserted&quot; author=&quot;Anonymous&quot; timestamp=&quot;20201112T001818+0200&quot; /&gt;"?>
-        <para dir="asdas">B <?oxy_insert_end?>alt text
-          maginicifc<?oxy_insert_start author="Left" timestamp="20201109T232713+0200"?></para>
+        <para dir="asdas">asdasssssasssssdssd asd <?oxy_insert_end?>alt text
+          maginicisfc<?oxy_insert_start author="Left" timestamp="20201109T232713+0200"?></para>
       </listitem>
       <listitem>
         <para>C</para>
